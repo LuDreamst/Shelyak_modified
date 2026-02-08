@@ -1,0 +1,47 @@
+Changelog
+------------------------------
+Shelyak - Conky Theme
+[ Leonis Themes Pack ] 
+
+by Closebox73
+modified by LuDreamst
+------------------------------
+
+v3.0 by Ludreamst
+date : 21 Nov 2025
+-	Delete time and date sections, duplicate with topbar.
+-	Move top-right section to top-left.
+-	Adjust weather section.
+-	Create a music section at original date area.
+-	Implement real-time cover refresh.
+-	Replace Abel with Fira to support Chinese display.
+-	Implement truncation to avoid display overflow.
+-	Adjust font sizes on music section.
+
+
+v2.3
+date : 04 Nov 2023
+-	Some minor change
+-	Add Playerctl variant for Shelyak Light 
+-	Add Fahrenheit variant for Shelyak Light 
+-	Little extra line in script
+
+
+v2.0
+date : 02 Apr 2023
+-	New weather.sh
+-	Add License
+-	Add Playerctl variant
+-	Add Fahrenheit variant
+
+
+v1.3
+date : 04 Jan 2023
+-	Add override_utf8_locale line 
+-	Little extra line in script
+-	Add Changelog file
+
+
+v1.0
+date : 25 May 2022
+-	Initial release

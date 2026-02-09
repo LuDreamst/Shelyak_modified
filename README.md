@@ -17,7 +17,7 @@ Check what had changed: [Changelog](https://github.com/LuDreamst/Shelyak_modifie
 4. Extract and install Abel.ttf from Abel.zip in the `fonts` folder.  
    If necessary, try this to update the font cache:  
    `sudo fc-cache -v -f`  
-5. Change the [city_id](https://github.com/LuDreamst/Shelyak_modified/blob/main/scripts/weather-v2.0.sh#L9), [unit](https://github.com/LuDreamst/Shelyak_modified/edit/main/README.md#L16) in `scripts/weather-v2.0.sh` and [°C](https://github.com/LuDreamst/Shelyak_modified/blob/main/Shelyak-Dark.conf#L85) as your need.
+5. Change the [city_id](https://github.com/LuDreamst/Shelyak_modified/blob/main/scripts/weather-v2.0.sh#L9), [unit](https://github.com/LuDreamst/Shelyak_modified/blob/main/scripts/weather-v2.0.sh#L16) in `scripts/weather-v2.0.sh` and [°C](https://github.com/LuDreamst/Shelyak_modified/blob/main/Shelyak-Dark.conf#L85) as your need.
 6. Now you can go:
    `sh start.sh`
 7. (Optical)autostart  
